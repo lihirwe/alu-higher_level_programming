@@ -1,22 +1,3 @@
-:wq
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #!/usr/bin/python3
 """defines load_from_json_file function"""
 import json
