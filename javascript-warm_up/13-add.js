@@ -1,2 +1,2 @@
-
-rts.add = (a, b) => parseInt(a) + parseInt(b);
+#!/usr/bin/node
+module.exports.add = (a, b) => parseInt(a) + parseInt(b);
