@@ -1,6 +1,3 @@
 #!/usr/bin/node
-if (process.argv[2]) {
-  console.log(process.argv[2]);
-} else {
-  console.log('No argument');
-}
+const myVar = 'JavaScript is amazing';
+console.log(myVar);
